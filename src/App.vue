@@ -10,6 +10,7 @@ import { RouterLink, RouterView } from 'vue-router'
       
 
       <nav>
+        <!-- utilisation des routes définies dans router/index.js -->
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">About</RouterLink>
         <RouterLink to="/contact">Contact</RouterLink>
@@ -17,7 +18,7 @@ import { RouterLink, RouterView } from 'vue-router'
       </nav>
     </div>
   </header>
-
+<!-- affichage des composants appelés par les routes -->
   <RouterView />
 </template>
 

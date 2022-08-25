@@ -9,7 +9,7 @@ import router from './router'
 
 import './assets/main.css'
 import './assets/base.scss'
-
+// création de l'App en utilisant le fichier App.vue
 const app = createApp(App)
 
 app.use(createPinia())
