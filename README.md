@@ -4,6 +4,8 @@ This template should help get you started developing with Vue 3 in Vite.
 
 https://learnvue.co/tutorials/script-setup
 
+https://dev.to/ericlecodeur/apprendre-vue-js-3-jour-4-composition-api-418g
+
 
 ## Recommended IDE Setup
 
